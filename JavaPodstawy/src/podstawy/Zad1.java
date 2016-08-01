@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Zad1 {
 
 	// Napisz program, który deklaruje 2 zmienne ca³kowite i na ekran wypisuje
-	// ich sumê jj
+	// ich sumê 
 
 	public static void main(String[] args) {
 
